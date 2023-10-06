@@ -1,5 +1,12 @@
 # @sveltejs/vite-plugin-svelte-inspector
 
+## 2.0.0-next.1
+
+### Patch Changes
+
+- Updated dependencies [[`5d8944b`](https://github.com/sveltejs/vite-plugin-svelte/commit/5d8944b5a947bc17a25119c51bd283f494db3146), [`7c45024`](https://github.com/sveltejs/vite-plugin-svelte/commit/7c45024eb1ac6a17e722697c603d05ff06c5dc9e)]:
+  - @sveltejs/vite-plugin-svelte@3.0.0-next.1
+
 ## 2.0.0-next.0
 
 ### Major Changes
