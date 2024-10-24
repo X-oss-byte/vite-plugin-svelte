@@ -12,12 +12,12 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "workspace:^",
-    "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.31",
-    "postcss-load-config": "^4.0.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "postcss-load-config": "^4.0.2",
     "svelte": "^4.2.1",
-    "svelte-preprocess": "^5.0.4",
-    "vite": "^5.0.0-beta.4"
+    "svelte-preprocess": "^5.1.4",
+    "vite": "^5.4.10"
   },
   "type": "module"
 }
