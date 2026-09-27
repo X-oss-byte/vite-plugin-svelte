@@ -16,7 +16,7 @@
     "carbon-icons-svelte": "^12.3.0",
     "carbon-preprocess-svelte": "^0.10.0",
     "lodash-es": "^4.17.21",
-    "svelte": "^4.2.1",
+    "svelte": "^5.0.0",
     "svelte-check": "^3.5.2",
     "svelte-preprocess": "^5.0.4",
     "typescript": "^5.2.2",
